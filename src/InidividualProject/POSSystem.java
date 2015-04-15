@@ -116,6 +116,7 @@ public class POSSystem extends JFrame {
 	{
 		Container container =  getContentPane();
 		container.removeAll();
+		this.setTitle("POS System");
 		
         container.setLayout(new GridLayout( 0, 3 ));
 
