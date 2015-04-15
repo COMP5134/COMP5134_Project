@@ -105,7 +105,7 @@ public class POSSystem extends JFrame {
     			} );
     	jp3.add(button);
     	
-    	jp.add(result);
+    	jp3.add(result);
     	
         setSize( 900, 600 );
         setVisible( true );
